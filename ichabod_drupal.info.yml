@@ -1,4 +1,4 @@
-name: Drupal Headless Starter
+name: Ichabod Drupal
 type: profile
 description: 'Install with modules common to decoupled Drupal installations.'
 version: VERSION
