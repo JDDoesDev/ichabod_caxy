@@ -5,7 +5,7 @@ use Drupal\Core\Form\FormStateInterface;
 
 /**
  * @file
- * Enables modules and site configuration for the Caxy headless Starter profile.
+ * Enables modules and site configuration for the Ichabod Drupal Headless Starter profile.
  */
 
 // Add any custom code here like hook implementations.

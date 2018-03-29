@@ -1,4 +1,4 @@
-name: Caxy Headless Starter
+name: Drupal Headless Starter
 type: profile
 description: 'Install with modules common to decoupled Drupal installations.'
 version: VERSION
