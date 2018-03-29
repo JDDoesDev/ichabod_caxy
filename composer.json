@@ -1,7 +1,7 @@
 {
     "name": "jddoesdev/ichabod_drupal",
     "type": "drupal-profile",
-    "description": "Caxy's Headless/Decoupled Starterkit",
+    "description": "A Drupal Headless/Decoupled Starterkit",
     "minimum-stability": "dev",
     "require": {
         "drupal/address": "^1.0",
