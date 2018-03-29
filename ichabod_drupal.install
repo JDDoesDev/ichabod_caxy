@@ -12,7 +12,7 @@
  *
  * @see system_install()
  */
-function caxy_headless_starter_install() {
+function ichabod_drupal_install() {
   // First, do everything that is done in the standard profile.
   include_once DRUPAL_ROOT . '/core/profiles/standard/standard.install';
   standard_install();

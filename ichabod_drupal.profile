@@ -10,7 +10,7 @@ use Drupal\Core\Form\FormStateInterface;
 
 // Add any custom code here like hook implementations.
 
-function caxy_headless_starter_form_install_configure_form_alter(&$form, FormStateInterface $form_state) {
+function ichabod_drupal_form_install_configure_form_alter(&$form, FormStateInterface $form_state) {
 
   // Account information defaults
   $form['admin_account']['account']['name']['#default_value'] = 'admin';
