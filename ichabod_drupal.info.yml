@@ -51,6 +51,5 @@ dependencies:
   - cors
 themes:
   - adminimal_theme
-  - bootstrap
   - bartik
   - seven
